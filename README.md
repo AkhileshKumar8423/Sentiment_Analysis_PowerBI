@@ -1,52 +1,49 @@
-# Sentiment_Analysis_PowerBI
-Interactive Sentiment Analysis Dashboard built using Microsoft Power BI to analyze customer feedback, sentiment trends, and key insights.
-
 # Sentiment Analysis Dashboard – Power BI
 
 ## 📊 Project Overview
 
-This project is an interactive Sentiment Analysis Dashboard developed using Microsoft Power BI.
+This project is an interactive **Sentiment Analysis Dashboard** developed using **Microsoft Power BI** to analyze tweet/customer feedback data.
 
-The dashboard analyzes tweet/customer feedback data to identify sentiment patterns, trends, and key insights. It provides a clear visual representation of positive, negative, and neutral sentiments to support data-driven analysis.
+The dashboard identifies sentiment patterns and presents the results through interactive visualizations, validation analysis, and manual tweet-level analysis.
 
 ## 🎯 Objectives
 
-- Analyze sentiment from tweet/text data
-- Identify positive, negative, and neutral sentiments
-- Understand sentiment trends and patterns
-- Perform manual tweet-level analysis
-- Validate the results using test data
-- Present final insights through an interactive Power BI dashboard
+* Analyze sentiment from tweet/text data
+* Identify positive, negative, and neutral sentiments
+* Understand sentiment trends and patterns
+* Perform manual tweet-level analysis
+* Validate sentiment classification using test data
+* Present meaningful insights through an interactive Power BI dashboard
 
 ## 🛠️ Tools & Technologies
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Cleaning & Transformation
-- Data Visualization
-- Sentiment Analysis
-- Microsoft Excel
+* **Microsoft Power BI**
+* **Power Query**
+* **DAX**
+* **Data Cleaning & Transformation**
+* **Data Visualization**
+* **Sentiment Analysis**
+* **Microsoft Excel**
 
 ## 📌 Project Features
 
-- Interactive sentiment dashboard
-- Sentiment distribution analysis
-- Tweet-level analysis
-- Test data validation
-- Manual tweet analysis
-- Final insights and validation
-- Interactive charts and visualizations
+* Interactive Sentiment Analysis Dashboard
+* Sentiment distribution analysis
+* Tweet-level analysis
+* Test data validation
+* Manual tweet analysis
+* Final insights and validation
+* Interactive charts and visualizations
 
 ## 📷 Dashboard & Analysis
 
 ### 1. Sentiment Analysis Dashboard
 
-![Sentiment Analysis Dashboard](Sentiment%20Analysis%20Dashboard.JPG)
+![Sentiment Analysis Dashboard](./Sentiment%20Analysis%20Dashboard.JPG)
 
 ### 2. Test Data Validation
 
-![Test Data Validation](Test%20Data%20Valdation.JPG)
+![Test Data Validation](./Test%20Data%20Valdation.JPG)
 
 ### 3. Manual Tweet Analysis
 
@@ -54,18 +51,34 @@ The dashboard analyzes tweet/customer feedback data to identify sentiment patter
 
 ### 4. Final Insights & Validation
 
-![Final Insights & Validation](Final%20Insights%20%26%20Validation.JPG)
+![Final Insights & Validation](./Final%20Insights%20%26%20Validation.JPG)
 
 ## 🔍 Key Analysis
 
-The project focuses on understanding sentiment patterns within the analyzed tweet dataset and validating the sentiment classification through test data and manual review.
+The project focuses on analyzing sentiment patterns within the tweet dataset and validating the sentiment classification through test data and manual review.
+
+The dashboard helps transform raw text-based data into visual insights that are easier to interpret and analyze.
 
 ## 📈 Outcome
 
-The dashboard transforms raw tweet/text data into meaningful visual insights, making it easier to understand overall sentiment patterns and evaluate the accuracy of the analysis.
+The project demonstrates how **Power BI, Power Query, and DAX** can be used to transform raw text data into an interactive sentiment analysis dashboard.
+
+It also demonstrates data validation, visualization, and analytical storytelling skills.
+
+## 💡 Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* DAX
+* Power BI Dashboard Development
+* Data Visualization
+* Sentiment Analysis
+* Data Validation
+* Analytical Thinking
 
 ## 👤 Author
 
 **Akhilesh Kumar**
 
-GitHub: [AkhileshKumar8423](https://github.com/AkhileshKumar8423)
+GitHub: AkhileshKumar8423
+
