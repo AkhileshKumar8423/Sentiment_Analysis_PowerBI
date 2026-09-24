@@ -50,7 +50,7 @@ The dashboard analyzes tweet/customer feedback data to identify sentiment patter
 
 ### 3. Manual Tweet Analysis
 
-![Manual Tweet Analysis](Manual%20Tweet%20Analysis.JPG)
+![Manual Tweet Analysis](./Manual%20Tweet%20Analysis.JPG)
 
 ### 4. Final Insights & Validation
 
